@@ -23,7 +23,7 @@ define('DB_PASS', '');     // Use a strong password on your VPS
 
 // 3. Site Metadata
 define('SITE_NAME', 'MYTINTAH');
-define('SITE_URL', 'http://localhost/adp-clone'); // Change to your domain (e.g., https://mytintah.com)
+define('SITE_URL', 'http://164.68.109.104:1996'); // Change to your domain (e.g., https://mytintah.com)
 define('SALES_PHONE', '800-225-5237');
 define('CONTACT_EMAIL', 'sales@mytintah.com');
 
